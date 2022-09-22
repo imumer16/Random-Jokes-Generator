@@ -21,29 +21,26 @@ Clone the project
 
 
 
-```bash
-  Open index.html
-```
-
-
-
 
 
 
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/84404257/191676956-fc0ad8af-7ba8-4317-a500-9c67702e3e2d.png)
+![WhatsApp Image 2022-09-22 at 12 50 15 PM](https://user-images.githubusercontent.com/84404257/191689284-e5454804-c69c-42b1-b25c-08d8272d400f.jpeg)
 
 
 ## Demo
+```
+  https://getyourjokes.netlify.app/
+```
 
-Insert gif or link to demo
 
 ## API Reference
 
 #### Get all items
 
-```http
+```
   GET /official-joke-api.appspot.com/random_joke
 ```
 
