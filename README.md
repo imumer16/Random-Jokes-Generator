@@ -50,25 +50,6 @@ Clone the project
 
 
 
-## Demo
-```
-  https://getyourjokes.netlify.app/
-```
-
-
-## API Reference
-
-#### Get all items
-
-```
-  GET /official-joke-api.appspot.com/random_joke
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `none` | `void` | **No Required**. Your API key |
-
-
 
 
 
